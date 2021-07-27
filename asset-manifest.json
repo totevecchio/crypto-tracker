@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/http//totevecchio.github.io/crypto-tracker/static/css/main.cb1cafb4.chunk.css",
-    "main.js": "/http//totevecchio.github.io/crypto-tracker/static/js/main.234f3647.chunk.js",
-    "main.js.map": "/http//totevecchio.github.io/crypto-tracker/static/js/main.234f3647.chunk.js.map",
-    "runtime-main.js": "/http//totevecchio.github.io/crypto-tracker/static/js/runtime-main.ae2a228b.js",
-    "runtime-main.js.map": "/http//totevecchio.github.io/crypto-tracker/static/js/runtime-main.ae2a228b.js.map",
-    "static/js/2.03883ed1.chunk.js": "/http//totevecchio.github.io/crypto-tracker/static/js/2.03883ed1.chunk.js",
-    "static/js/2.03883ed1.chunk.js.map": "/http//totevecchio.github.io/crypto-tracker/static/js/2.03883ed1.chunk.js.map",
-    "index.html": "/http//totevecchio.github.io/crypto-tracker/index.html",
-    "static/css/main.cb1cafb4.chunk.css.map": "/http//totevecchio.github.io/crypto-tracker/static/css/main.cb1cafb4.chunk.css.map",
-    "static/js/2.03883ed1.chunk.js.LICENSE.txt": "/http//totevecchio.github.io/crypto-tracker/static/js/2.03883ed1.chunk.js.LICENSE.txt"
+    "main.css": "/crypto-tracker/static/css/main.cb1cafb4.chunk.css",
+    "main.js": "/crypto-tracker/static/js/main.234f3647.chunk.js",
+    "main.js.map": "/crypto-tracker/static/js/main.234f3647.chunk.js.map",
+    "runtime-main.js": "/crypto-tracker/static/js/runtime-main.e8d274b8.js",
+    "runtime-main.js.map": "/crypto-tracker/static/js/runtime-main.e8d274b8.js.map",
+    "static/js/2.03883ed1.chunk.js": "/crypto-tracker/static/js/2.03883ed1.chunk.js",
+    "static/js/2.03883ed1.chunk.js.map": "/crypto-tracker/static/js/2.03883ed1.chunk.js.map",
+    "index.html": "/crypto-tracker/index.html",
+    "static/css/main.cb1cafb4.chunk.css.map": "/crypto-tracker/static/css/main.cb1cafb4.chunk.css.map",
+    "static/js/2.03883ed1.chunk.js.LICENSE.txt": "/crypto-tracker/static/js/2.03883ed1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae2a228b.js",
+    "static/js/runtime-main.e8d274b8.js",
     "static/js/2.03883ed1.chunk.js",
     "static/css/main.cb1cafb4.chunk.css",
     "static/js/main.234f3647.chunk.js"
